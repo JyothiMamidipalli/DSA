@@ -2,7 +2,7 @@
 #include<bits/stdc++.h>
 using namespace std;
 int main (){
-    //nry_code();
+    //jyo_code();
     int m,n;
     cin>>m>>n;
     int arr[m],brr[n];
